@@ -87,8 +87,6 @@ RawBoost: official code from github.com/TakHemlata/SSL_Anti-spoofing (Tak et al.
 | `train_v3.py`, `evaluate_v3.py`, `selftest_v3.py`, `pack_v3.py` | v3 train/eval/smoke test/packaging |
 | `colab_v3.ipynb` | full v3 run on Colab (GPU) |
 | `app.py`, `index.html` | local demo (supports v1 and v3 checkpoints) |
-| `PROJECT_EXPLAINED.md` | plain-English guide to the project, results, metrics and files |
-| `PROJECT_EXPLAINED.pdf` | PDF version of the plain-English guide, ready to share |
 
 ## Limitations
 

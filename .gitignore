@@ -31,3 +31,7 @@ CALLER/
 # Local analysis artifacts (not part of the published repo)
 results/
 eval/scores_*.csv
+
+# Local-only shareable guides
+PROJECT_EXPLAINED.md
+PROJECT_EXPLAINED.pdf

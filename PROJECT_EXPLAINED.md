@@ -355,18 +355,18 @@ This is a safety policy for live microphone audio, not a new scientific result. 
 | `data_v3/v3_test_mlaad_matched.csv` | Matched MLAAD test list. |
 | `data_v3/v3_test_mlaad_unseen.csv` | Unseen-system MLAAD test list. |
 | `eval/eval_xlsr_v3.csv` | The final v3 results table. |
-| `eval/scores_xlsr_v3_*.csv` | Per-file scores and labels for each test set. |
-| `checkpoints/` | Saved model weights. `xlsr_v3.pt` is the main one. |
-| `colab_pack/` | Packed ASVspoof + MLAAD audio and CSVs for Colab/evaluation. |
-| `colab_pack_v2/` | Packed MLAAD train2 + unseen-system audio and CSVs. |
-| `MLAAD-tiny/` | Raw MLAAD-tiny dataset. |
-| `data/` | Older v1/v2 CSV splits. |
-| `results/` | Older v1 results and diagnostics. |
+| `checkpoints/` | Saved model weights. `xlsr_v3.pt` is the main one (download from Releases). |
+| `colab_pack/` | Packed ASVspoof + MLAAD audio and CSVs for Colab/evaluation (local only). |
+| `colab_pack_v2/` | Packed MLAAD train2 + unseen-system audio and CSVs (local only). |
+| `MLAAD-tiny/` | Raw MLAAD-tiny dataset (local only). |
+| `data/` | Older v1/v2 CSV splits (local only). |
 | `README.md` | The main project overview and quickstart. |
 | `MODEL_CARD.md` | The formal model card: metrics, risks, intended use. |
 | `requirements.txt` | Python packages needed. |
 | `eer_chart.png` | EER chart shown in the README. |
 | `PROJECT_EXPLAINED.md` | This guide. |
+
+To keep the repository small, raw per-file score dumps, old v1 diagnostic dumps, raw audio, and checkpoints are not stored in Git. Download the v3 checkpoint from Releases.
 
 ---
 

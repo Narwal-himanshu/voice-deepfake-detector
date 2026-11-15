@@ -27,3 +27,7 @@ checkpoints/
 results_v3_quick/
 data_v3/quick_*.csv
 CALLER/
+
+# Local analysis artifacts (not part of the published repo)
+results/
+eval/scores_*.csv

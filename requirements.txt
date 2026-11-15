@@ -1,0 +1,12 @@
+torch
+torchaudio
+transformers>=4.38,<5
+scipy
+soundfile
+numpy
+pandas
+scikit-learn
+tqdm
+fastapi
+uvicorn
+python-multipart

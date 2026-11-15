@@ -1,0 +1,451 @@
+path,utt,attack,label,lang,source,logit,score,pred
+colab_pack/audio/mlaad/mlaad_10214.flac,frankenstein_20_f000099.wav,Kartoffelbox,1,de,mlaad,3.0590484142303467,0.9997852006628892,1
+colab_pack/audio/mlaad/mlaad_09449.flac,das_letzte_marchen_009_f000303.wav,real,0,de,mlaad,-1.0848079919815063,0.04765234083498006,0
+colab_pack/audio/mlaad/mlaad_08458.flac,wives_and_daughters_16_f000171.wav,MatchaTTS,1,en,mlaad,3.4820172786712646,0.999933173731692,1
+colab_pack/audio/mlaad/mlaad_07548.flac,das_letzte_marchen_006_f000329.wav,real,0,de,mlaad,-0.3680073320865631,0.2658043244233226,0
+colab_pack/audio/mlaad/mlaad_07635.flac,northandsouth_16_f000001.wav,kokoro,1,en,mlaad,3.179821729660034,0.9998460962389476,1
+colab_pack/audio/mlaad/mlaad_09850.flac,dorothy_and_wizard_oz_03_f000079.wav,e2-tts,1,en,mlaad,2.6196742057800293,0.9992778408841525,1
+colab_pack/audio/mlaad/mlaad_07440.flac,herrnarnesschatz_01_f000103.wav,FishTTS,1,de,mlaad,3.4003477096557617,0.999916273357153,1
+colab_pack/audio/mlaad/mlaad_07739.flac,alter_afrikaner_14_f000243.wav,NVidia Magpie-TTS Multilingual,1,de,mlaad,2.4222412109375,0.9987551052477293,1
+colab_pack/audio/mlaad/mlaad_07724.flac,ferien_vom_ich_015_f000206.wav,real,0,de,mlaad,-1.063523769378662,0.05039109571000722,0
+colab_pack/audio/mlaad/mlaad_09230.flac,northandsouth_36_f000015.wav,VoxCPM-0.5B,1,en,mlaad,2.285409450531006,0.9981846968792052,1
+colab_pack/audio/mlaad/mlaad_08740.flac,grune_gesicht_13_f000195.wav,Higgs-Audio-V2,1,de,mlaad,-1.0480015277862549,0.0524817323474107,0
+colab_pack/audio/mlaad/mlaad_10024.flac,Kanzlerin_22_13_f000048.wav,real,0,de,mlaad,-1.0220866203308105,0.056155662110655036,0
+colab_pack/audio/mlaad/mlaad_07883.flac,zweiplaneten_46_lasswitz_f000308.wav,real,0,de,mlaad,-3.378922462463379,8.882819898475349e-05,0
+colab_pack/audio/mlaad/mlaad_09731.flac,Kanzlerin_30_17_f000005.wav,real,0,de,mlaad,-1.0231826305389404,0.05599549658972842,0
+colab_pack/audio/mlaad/mlaad_10953.flac,Kanzlerin_32_13_f000014.wav,real,0,de,mlaad,-1.086597204208374,0.04742866703799231,0
+colab_pack/audio/mlaad/mlaad_07099.flac,Kanzlerin_29_14_f000005.wav,real,0,de,mlaad,-0.8253222703933716,0.09291123384130295,0
+colab_pack/audio/mlaad/mlaad_08974.flac,erzaehlungen_23_poe_f000063.wav,RVC,1,de,mlaad,3.6214866638183594,0.9999545295464743,1
+colab_pack/audio/mlaad/mlaad_09687.flac,grune_gesicht_02_f000194.wav,griffin_lim,1,de,mlaad,-1.1931322813034058,0.035775317481150634,0
+colab_pack/audio/mlaad/mlaad_09179.flac,piratesofersatz_10_leinster_64kb_f000005.wav,real,0,en,mlaad,-2.2858963012695312,0.0018128691865986989,0
+colab_pack/audio/mlaad/mlaad_08590.flac,pink_fairy_book_30_f000068.wav,griffin_lim,1,en,mlaad,0.9284216165542603,0.9284578485206169,1
+colab_pack/audio/mlaad/mlaad_10104.flac,liebesbriefe_03_f000014.wav,griffin_lim,1,de,mlaad,-0.917900562286377,0.07349574929315744,0
+colab_pack/audio/mlaad/mlaad_07505.flac,northandsouth_11_f000103.wav,real,0,en,mlaad,-3.223426580429077,0.00013644999784658915,0
+colab_pack/audio/mlaad/mlaad_08683.flac,erzaehlungen_32_poe_f000090.wav,CaroTTS,1,de,mlaad,2.055896282196045,0.9965845785304677,1
+colab_pack/audio/mlaad/mlaad_07666.flac,dorothy_and_wizard_oz_03_f000114.wav,griffin_lim,1,en,mlaad,-0.13026775419712067,0.4110441773743535,0
+colab_pack/audio/mlaad/mlaad_08838.flac,dorothy_and_wizard_oz_10_f000020.wav,MeloTTS,1,en,mlaad,2.5228333473205566,0.9990566967501091,1
+colab_pack/audio/mlaad/mlaad_07959.flac,ferien_vom_ich_012_f000139.wav,real,0,de,mlaad,-1.458570957183838,0.017517123270832335,0
+colab_pack/audio/mlaad/mlaad_10545.flac,Kanzlerin_25_12_f000024.wav,real,0,de,mlaad,-0.4234353005886078,0.23702786685132704,0
+colab_pack/audio/mlaad/mlaad_08133.flac,ferien_vom_ich_005_f000103.wav,real,0,de,mlaad,-0.5335183143615723,0.1864920458785334,0
+colab_pack/audio/mlaad/mlaad_09078.flac,northandsouth_25_f000030.wav,MatchaTTS,1,en,mlaad,3.328819990158081,0.9998979955257167,1
+colab_pack/audio/mlaad/mlaad_09825.flac,Kanzlerin_28_12_f000020.wav,real,0,de,mlaad,-1.4948675632476807,0.01587333846158823,0
+colab_pack/audio/mlaad/mlaad_07994.flac,silent_bullet_13_f000358.wav,Mars5,1,en,mlaad,2.5588834285736084,0.9991459855574971,1
+colab_pack/audio/mlaad/mlaad_07331.flac,Kanzlerin_17_16_f000049.wav,real,0,de,mlaad,-0.40408089756965637,0.2468266627573522,0
+colab_pack/audio/mlaad/mlaad_07650.flac,das_letzte_marchen_012_f000247.wav,real,0,de,mlaad,-0.4035237729549408,0.24711271946968025,0
+colab_pack/audio/mlaad/mlaad_08961.flac,Kanzlerin_34_14_f000043.wav,real,0,de,mlaad,-1.78867506980896,0.0071159589231187,0
+colab_pack/audio/mlaad/mlaad_10106.flac,erzaehlungen_20_poe_f000157.wav,griffin_lim,1,de,mlaad,0.6457058191299438,0.8560300194050495,1
+colab_pack/audio/mlaad/mlaad_10740.flac,Kanzlerin_39_16_f000041.wav,real,0,de,mlaad,-1.5450987815856934,0.013846290340984314,0
+colab_pack/audio/mlaad/mlaad_07293.flac,piratesofersatz_03_leinster_64kb_f000220.wav,Veena,1,en,mlaad,3.1073479652404785,0.9998120110849903,1
+colab_pack/audio/mlaad/mlaad_10327.flac,the_master_key_03_f000078.wav,parler_tts_mini_v0.1,1,en,mlaad,2.2173078060150146,0.9978100124819768,1
+colab_pack/audio/mlaad/mlaad_10291.flac,tschun_04_f000064.wav,griffin_lim,1,de,mlaad,1.9444597959518433,0.9953599211563074,1
+colab_pack/audio/mlaad/mlaad_09592.flac,dorothy_and_wizard_oz_09_f000123.wav,OpenVoiceV2,1,en,mlaad,2.79001784324646,0.999548659402243,1
+colab_pack/audio/mlaad/mlaad_07462.flac,northandsouth_14_f000012.wav,OpenVoiceV2,1,en,mlaad,2.185317039489746,0.9976082733943525,1
+colab_pack/audio/mlaad/mlaad_10519.flac,skyisland_01_baum_64kb_f000039.wav,sesame_csm,1,en,mlaad,2.5533101558685303,0.9991327547011476,1
+colab_pack/audio/mlaad/mlaad_10195.flac,poisoned_pen_08_f000219.wav,real,0,en,mlaad,-2.9964497089385986,0.0002553128740356902,0
+colab_pack/audio/mlaad/mlaad_09388.flac,zweiplaneten_54_lasswitz_f000073.wav,Chatterbox Multilingual,1,de,mlaad,2.160093069076538,0.997436219831836,1
+colab_pack/audio/mlaad/mlaad_10710.flac,Kanzlerin_16_14_f000019.wav,Chatterbox Multilingual,1,de,mlaad,2.3202462196350098,0.9983508835780615,1
+colab_pack/audio/mlaad/mlaad_07942.flac,alter_afrikaner_17_f000144.wav,"Resemble.ai (April 12th, 2025)",1,de,mlaad,3.4262001514434814,0.9999220406025917,1
+colab_pack/audio/mlaad/mlaad_10286.flac,Kanzlerin_35_17_f000030.wav,real,0,de,mlaad,-0.49363836646080017,0.20377516774982488,0
+colab_pack/audio/mlaad/mlaad_09092.flac,dorothy_and_wizard_oz_01_f000033.wav,vixTTS,1,en,mlaad,2.549217939376831,0.9991229096305351,1
+colab_pack/audio/mlaad/mlaad_10773.flac,ferien_vom_ich_009_f000050.wav,real,0,de,mlaad,-1.707362413406372,0.008891031916430309,0
+colab_pack/audio/mlaad/mlaad_10361.flac,jane_eyre_17_f000274.wav,griffin_lim,1,en,mlaad,2.2855377197265625,0.9981853384573097,1
+colab_pack/audio/mlaad/mlaad_08563.flac,alter_afrikaner_04_f000203.wav,griffin_lim,1,de,mlaad,-2.8753390312194824,0.000356650922091858,0
+colab_pack/audio/mlaad/mlaad_09604.flac,ferien_vom_ich_003_f000224.wav,real,0,de,mlaad,-0.7215996980667114,0.12002085504105389,0
+colab_pack/audio/mlaad/mlaad_07261.flac,das_letzte_marchen_010_f000221.wav,real,0,de,mlaad,-0.23133030533790588,0.34554733825241185,0
+colab_pack/audio/mlaad/mlaad_10856.flac,caspar_hauser_33_f000158.wav,real,0,de,mlaad,-2.487708806991577,0.0010392613997541474,0
+colab_pack/audio/mlaad/mlaad_08523.flac,das_letzte_marchen_002_f000203.wav,real,0,de,mlaad,-0.6730434894561768,0.13491579569423798,0
+colab_pack/audio/mlaad/mlaad_07747.flac,jane_eyre_35_f000228.wav,griffin_lim,1,en,mlaad,-0.9904959201812744,0.0609613619047322,0
+colab_pack/audio/mlaad/mlaad_10726.flac,ferien_vom_ich_005_f000146.wav,real,0,de,mlaad,-0.1652747094631195,0.3878640195656595,0
+colab_pack/audio/mlaad/mlaad_07759.flac,zweiplaneten_06_lasswitz_f000097.wav,griffin_lim,1,de,mlaad,0.9094390869140625,0.9248975746959512,1
+colab_pack/audio/mlaad/mlaad_09782.flac,poisoned_pen_12_f000434.wav,griffin_lim,1,en,mlaad,2.9916861057281494,0.9997413080448441,1
+colab_pack/audio/mlaad/mlaad_10922.flac,silent_bullet_13_f000149.wav,Ringg Squirrel TTS v1.0,1,en,mlaad,3.556090831756592,0.9999455326083246,1
+colab_pack/audio/mlaad/mlaad_10707.flac,silent_bullet_07_f000093.wav,real,0,en,mlaad,-2.932999849319458,0.0003041791329651408,0
+colab_pack/audio/mlaad/mlaad_07790.flac,alter_afrikaner_05_f000112.wav,griffin_lim,1,de,mlaad,-0.1547410488128662,0.3947909103562282,0
+colab_pack/audio/mlaad/mlaad_07615.flac,northandsouth_08_f000019.wav,Microsoft VibeVoice Large,1,en,mlaad,2.4270272254943848,0.998771426383021,1
+colab_pack/audio/mlaad/mlaad_10134.flac,Kanzlerin_41_16_f000025.wav,real,0,de,mlaad,-1.0786176919937134,0.04843395970296694,0
+colab_pack/audio/mlaad/mlaad_08583.flac,wives_and_daughters_21_f000086.wav,real,0,en,mlaad,-3.4372594356536865,7.561520602691424e-05,0
+colab_pack/audio/mlaad/mlaad_09715.flac,kleine_lord_02_f000170.wav,Chatterbox Multilingual,1,de,mlaad,2.7402760982513428,0.9994822535696526,1
+colab_pack/audio/mlaad/mlaad_08736.flac,Kanzlerin_11_17_f000018.wav,real,0,de,mlaad,-1.483863115310669,0.016354989668453626,0
+colab_pack/audio/mlaad/mlaad_10311.flac,das_letzte_marchen_006_f000265.wav,real,0,de,mlaad,-1.3143575191497803,0.025862673410525294,0
+colab_pack/audio/mlaad/mlaad_07177.flac,alter_afrikaner_08_f000182.wav,OuteTTS,1,de,mlaad,2.777966260910034,0.9995333965885138,1
+colab_pack/audio/mlaad/mlaad_08005.flac,Kanzlerin_24_14_f000059.wav,real,0,de,mlaad,-1.361426591873169,0.022782813722519734,0
+colab_pack/audio/mlaad/mlaad_08853.flac,northandsouth_35_f000167.wav,Indri-TTS-0.1,1,en,mlaad,3.6740458011627197,0.999960671057971,1
+colab_pack/audio/mlaad/mlaad_08103.flac,menschenhasser_17_f000120.wav,griffin_lim,1,de,mlaad,-1.5904815196990967,0.012235653116281112,0
+colab_pack/audio/mlaad/mlaad_08699.flac,das_letzte_marchen_010_f000201.wav,real,0,de,mlaad,-0.8456544876098633,0.0882871856409864,0
+colab_pack/audio/mlaad/mlaad_10008.flac,ozma_of_oz_14_f000073.wav,Spark-TTS-0.5B,1,en,mlaad,1.6639772653579712,0.9899889195970556,1
+colab_pack/audio/mlaad/mlaad_09611.flac,Kanzlerin_10_15_f000033.wav,real,0,de,mlaad,-1.634608507156372,0.01084745227175131,0
+colab_pack/audio/mlaad/mlaad_10309.flac,emerald_city_of_oz_08_f000058.wav,real,0,en,mlaad,-2.9368951320648193,0.00030092640130696604,0
+colab_pack/audio/mlaad/mlaad_09725.flac,emerald_city_of_oz_07_f000030.wav,SoulX-Podcast,1,en,mlaad,2.060119390487671,0.9966240353661046,1
+colab_pack/audio/mlaad/mlaad_10739.flac,alter_afrikaner_13_f000024.wav,griffin_lim,1,de,mlaad,0.050955116748809814,0.5351120431772619,0
+colab_pack/audio/mlaad/mlaad_08292.flac,das_letzte_marchen_006_f000181.wav,real,0,de,mlaad,-1.095740556716919,0.046301128615498455,0
+colab_pack/audio/mlaad/mlaad_07124.flac,northandsouth_16_f000112.wav,Cartesia.ai (Sonic-3),1,en,mlaad,2.516477346420288,0.999040013603936,1
+colab_pack/audio/mlaad/mlaad_07801.flac,das_letzte_marchen_002_f000076.wav,real,0,de,mlaad,-1.5808660984039307,0.012560685716241922,0
+colab_pack/audio/mlaad/mlaad_09038.flac,menschenhasser_08_f000125.wav,NVidia Magpie-TTS Multilingual,1,de,mlaad,1.9814180135726929,0.9958081370470554,1
+colab_pack/audio/mlaad/mlaad_09602.flac,jane_eyre_31_f000053.wav,real,0,en,mlaad,-3.421322822570801,7.901618380626249e-05,0
+colab_pack/audio/mlaad/mlaad_09189.flac,wives_and_daughters_54_f000176.wav,real,0,en,mlaad,-3.439666271209717,7.51144519127905e-05,0
+colab_pack/audio/mlaad/mlaad_09143.flac,Die_Kanzlerin_direkt_03_08_f000021.wav,real,0,de,mlaad,0.7445132732391357,0.8865015571688691,1
+colab_pack/audio/mlaad/mlaad_07961.flac,the_master_key_16_f000090.wav,Metavoice-1B,1,en,mlaad,2.4925243854522705,0.9989744501820963,1
+colab_pack/audio/mlaad/mlaad_09891.flac,erzaehlungen_06_poe_f000199.wav,"Resemble.ai (April 12th, 2025)",1,de,mlaad,2.4200148582458496,0.9987474393784672,1
+colab_pack/audio/mlaad/mlaad_10971.flac,das_letzte_marchen_012_f000259.wav,real,0,de,mlaad,-0.8043724298477173,0.09790199299763111,0
+colab_pack/audio/mlaad/mlaad_09610.flac,wives_and_daughters_29_f000005.wav,griffin_lim,1,en,mlaad,2.3496146202087402,0.9984791244800665,1
+colab_pack/audio/mlaad/mlaad_10851.flac,wives_and_daughters_52_f000049.wav,Nari Dia-1.6B,1,en,mlaad,2.874155282974243,0.9996421819972895,1
+colab_pack/audio/mlaad/mlaad_09251.flac,the_sea_fairies_13_f000028.wav,real,0,en,mlaad,-2.7354378700256348,0.0005247050492471825,0
+colab_pack/audio/mlaad/mlaad_07770.flac,erzaehlungen_19_poe_f000028.wav,griffin_lim,1,de,mlaad,0.26827916502952576,0.677144553149919,1
+colab_pack/audio/mlaad/mlaad_08839.flac,pink_fairy_book_26_f000077.wav,real,0,en,mlaad,-2.6404736042022705,0.0006818854347816864,0
+colab_pack/audio/mlaad/mlaad_10067.flac,ferien_vom_ich_004_f000141.wav,real,0,de,mlaad,-1.1106598377227783,0.04451590319252148,0
+colab_pack/audio/mlaad/mlaad_07230.flac,erzaehlungen_22_poe_f000076.wav,CaroTTS,1,de,mlaad,1.7784087657928467,0.9926809596172893,1
+colab_pack/audio/mlaad/mlaad_07152.flac,kleinzaches_09_f000182.wav,Chatterbox Multilingual,1,de,mlaad,2.858771800994873,0.9996266633589789,1
+colab_pack/audio/mlaad/mlaad_07500.flac,zweiplaneten_14_lasswitz_f000004.wav,real,0,de,mlaad,-2.84548020362854,0.0003872857390201386,0
+colab_pack/audio/mlaad/mlaad_09285.flac,jane_eyre_19_f000213.wav,Ringg Squirrel TTS v1.0,1,en,mlaad,2.8194477558135986,0.9995838666595545,1
+colab_pack/audio/mlaad/mlaad_08972.flac,das_letzte_marchen_013_f000397.wav,real,0,de,mlaad,-1.1390094757080078,0.041302962520522284,0
+colab_pack/audio/mlaad/mlaad_07113.flac,odysseus_07_f000074.wav,NVidia Magpie-TTS Multilingual,1,de,mlaad,2.4838790893554688,0.9989497034848632,1
+colab_pack/audio/mlaad/mlaad_08957.flac,northandsouth_10_f000081.wav,f5-tts,1,en,mlaad,2.5723166465759277,0.9991770528180406,1
+colab_pack/audio/mlaad/mlaad_07138.flac,grune_haus_11_f000026.wav,real,0,de,mlaad,-3.142268419265747,0.00017071405083101976,0
+colab_pack/audio/mlaad/mlaad_07366.flac,ferien_vom_ich_009_f000050.wav,griffin_lim,1,de,mlaad,-1.1668812036514282,0.038361261923236696,0
+colab_pack/audio/mlaad/mlaad_08567.flac,untermbirnbaum_15_f000026.wav,"Resemble.ai (April 12th, 2025)",1,de,mlaad,2.8884384632110596,0.9996560127750503,1
+colab_pack/audio/mlaad/mlaad_08069.flac,ferien_vom_ich_003_f000088.wav,real,0,de,mlaad,-1.5019118785858154,0.015572371884148466,0
+colab_pack/audio/mlaad/mlaad_07425.flac,ferien_vom_ich_013_f000371.wav,real,0,de,mlaad,-0.4393559396266937,0.22917095215839087,0
+colab_pack/audio/mlaad/mlaad_09337.flac,ferien_vom_ich_011_f000030.wav,real,0,de,mlaad,0.1788765788078308,0.6210135465835598,1
+colab_pack/audio/mlaad/mlaad_07419.flac,altehaus_009_1_f000042.wav,real,0,de,mlaad,-2.908947706222534,0.0003250569489945423,0
+colab_pack/audio/mlaad/mlaad_08769.flac,das_letzte_marchen_003_f000086.wav,real,0,de,mlaad,-1.7285645008087158,0.008389767819025748,0
+colab_pack/audio/mlaad/mlaad_07266.flac,piratesofersatz_08_leinster_64kb_f000108.wav,griffin_lim,1,en,mlaad,-0.18482042849063873,0.37513198062759767,0
+colab_pack/audio/mlaad/mlaad_08829.flac,zweiplaneten_41_lasswitz_f000152.wav,griffin_lim,1,de,mlaad,-1.3994245529174805,0.020560487134334126,0
+colab_pack/audio/mlaad/mlaad_08061.flac,northandsouth_08_f000086.wav,suno_bark,1,en,mlaad,4.119676113128662,0.9999885078119273,1
+colab_pack/audio/mlaad/mlaad_08712.flac,hunters_space_13_f000101.wav,Edge-TTS,1,en,mlaad,2.7933547496795654,0.9995527965297499,1
+colab_pack/audio/mlaad/mlaad_09569.flac,northandsouth_23_f000032.wav,suno_bark-small,1,en,mlaad,3.565253496170044,0.9999468931049342,1
+colab_pack/audio/mlaad/mlaad_10497.flac,northandsouth_46_f000208.wav,Indri-TTS-0.1,1,en,mlaad,3.5487825870513916,0.9999444225188394,1
+colab_pack/audio/mlaad/mlaad_07127.flac,wives_and_daughters_40_f000137.wav,real,0,en,mlaad,-2.8385379314422607,0.00039477732903906554,0
+colab_pack/audio/mlaad/mlaad_09325.flac,Die_Kanzlerin_direkt_16_07_f000007.wav,real,0,de,mlaad,-0.6669797897338867,0.136881666077666,0
+colab_pack/audio/mlaad/mlaad_10068.flac,Kanzlerin_23_17_f000033.wav,real,0,de,mlaad,-1.1809971332550049,0.03694917931192073,0
+colab_pack/audio/mlaad/mlaad_10191.flac,Die_Kanzlerin_direkt_39_07_f000016.wav,real,0,de,mlaad,-0.9995732307434082,0.059542421384182136,0
+colab_pack/audio/mlaad/mlaad_07016.flac,grune_gesicht_05_f000338.wav,griffin_lim,1,de,mlaad,1.0689470767974854,0.9503205840221248,1
+colab_pack/audio/mlaad/mlaad_09662.flac,wives_and_daughters_37_f000247.wav,real,0,en,mlaad,-3.0894014835357666,0.00019753604952637383,0
+colab_pack/audio/mlaad/mlaad_07958.flac,northandsouth_48_f000094.wav,NeuTTS-Air,1,en,mlaad,2.162308931350708,0.9974518164856488,1
+colab_pack/audio/mlaad/mlaad_08237.flac,wives_and_daughters_22_f000034.wav,real,0,en,mlaad,-2.9210851192474365,0.0003143482538494188,0
+colab_pack/audio/mlaad/mlaad_09088.flac,ferien_vom_ich_016_f000112.wav,real,0,de,mlaad,-1.0411722660064697,0.05342727317784296,0
+colab_pack/audio/mlaad/mlaad_07864.flac,zweiplaneten_42_lasswitz_f000035.wav,Chatterbox Multilingual,1,de,mlaad,1.149868369102478,0.9598679601428745,1
+colab_pack/audio/mlaad/mlaad_08457.flac,das_letzte_marchen_007_f000230.wav,real,0,de,mlaad,-1.1300190687179565,0.042297076303411354,0
+colab_pack/audio/mlaad/mlaad_09840.flac,erzaehlungen_26_poe_f000011.wav,griffin_lim,1,de,mlaad,1.3420454263687134,0.9759949656729565,1
+colab_pack/audio/mlaad/mlaad_10865.flac,Kanzlerin_25_16_f000005.wav,real,0,de,mlaad,-1.2932589054107666,0.02737146181952445,0
+colab_pack/audio/mlaad/mlaad_07862.flac,Kanzlerin_35_13_f000022.wav,real,0,de,mlaad,-0.6291356086730957,0.14970041533605494,0
+colab_pack/audio/mlaad/mlaad_10454.flac,das_letzte_marchen_011_f000001.wav,real,0,de,mlaad,-0.6338027715682983,0.14806762738125503,0
+colab_pack/audio/mlaad/mlaad_08336.flac,toten_seelen_19_f000027.wav,griffin_lim,1,de,mlaad,-2.552886724472046,0.000868258849284828,0
+colab_pack/audio/mlaad/mlaad_10720.flac,ferien_vom_ich_013_f000315.wav,real,0,de,mlaad,-0.7812200784683228,0.10369415414028753,0
+colab_pack/audio/mlaad/mlaad_08469.flac,jane_eyre_20_f000112.wav,kokoro,1,en,mlaad,2.8381905555725098,0.999604844025988,1
+colab_pack/audio/mlaad/mlaad_08148.flac,midnight_passenger_05_f000058.wav,real,0,en,mlaad,-3.2412140369415283,0.0001299118532404461,0
+colab_pack/audio/mlaad/mlaad_07623.flac,sandmann_1_f000116.wav,griffin_lim,1,de,mlaad,0.3318483531475067,0.7142642256401877,1
+colab_pack/audio/mlaad/mlaad_09275.flac,erzaehlungen_33_poe_f000054.wav,"Resemble.ai (April 12th, 2025)",1,de,mlaad,3.2068817615509033,0.9998571736277125,1
+colab_pack/audio/mlaad/mlaad_10087.flac,das_letzte_marchen_005_f000237.wav,real,0,de,mlaad,-0.8089333772659302,0.09679550952611683,0
+colab_pack/audio/mlaad/mlaad_07518.flac,alter_afrikaner_12_f000186.wav,CaroTTS,1,de,mlaad,2.939865827560425,0.9997015308679904,1
+colab_pack/audio/mlaad/mlaad_10668.flac,Kanzlerin_27_13_f000032.wav,real,0,de,mlaad,-1.289376974105835,0.02765823454333795,0
+colab_pack/audio/mlaad/mlaad_10061.flac,Kanzlerin_33_12_f000009.wav,real,0,de,mlaad,-1.4710062742233276,0.01693594229516401,0
+colab_pack/audio/mlaad/mlaad_09815.flac,ferien_vom_ich_014_f000242.wav,real,0,de,mlaad,-1.3326530456542969,0.024620124153648414,0
+colab_pack/audio/mlaad/mlaad_09718.flac,ferien_vom_ich_013_f000315.wav,CaroTTS,1,de,mlaad,2.4794259071350098,0.9989367246244399,1
+colab_pack/audio/mlaad/mlaad_08425.flac,grune_gesicht_09_f000207.wav,facebook_mms-tts-deu,1,de,mlaad,3.502007484436035,0.9999367617237483,1
+colab_pack/audio/mlaad/mlaad_07742.flac,Kanzlerin_20_15_f000051.wav,real,0,de,mlaad,-0.7888439893722534,0.1017541242297581,0
+colab_pack/audio/mlaad/mlaad_10323.flac,Kanzlerin_26_16_f000005.wav,real,0,de,mlaad,-1.221865177154541,0.03313741026805616,0
+colab_pack/audio/mlaad/mlaad_08196.flac,das_letzte_marchen_004_f000170.wav,real,0,de,mlaad,-0.9207429885864258,0.07296316397488803,0
+colab_pack/audio/mlaad/mlaad_09848.flac,ferien_vom_ich_004_f000135.wav,real,0,de,mlaad,-0.6772454977035522,0.1335675115502864,0
+colab_pack/audio/mlaad/mlaad_10849.flac,wives_and_daughters_01_f000071.wav,Cartesia.ai (Sonic-3),1,en,mlaad,2.7476978302001953,0.9994927490887558,1
+colab_pack/audio/mlaad/mlaad_07299.flac,grune_gesicht_09_f000222.wav,NVidia Magpie-TTS Multilingual,1,de,mlaad,2.6237599849700928,0.9992859354602782,1
+colab_pack/audio/mlaad/mlaad_08229.flac,Die_Kanzlerin_direkt_44_12_f000033.wav,real,0,de,mlaad,-1.5262707471847534,0.01457430906270376,0
+colab_pack/audio/mlaad/mlaad_10270.flac,Kanzlerin_14_13_f000040.wav,real,0,de,mlaad,-0.6486638784408569,0.1429664093689481,0
+colab_pack/audio/mlaad/mlaad_09413.flac,Kanzlerin_01_15_f000053.wav,real,0,de,mlaad,-0.5312918424606323,0.1874264170505327,0
+colab_pack/audio/mlaad/mlaad_08417.flac,Kanzlerin_29_15_f000041.wav,real,0,de,mlaad,-1.8051247596740723,0.006802163819416397,0
+colab_pack/audio/mlaad/mlaad_10544.flac,maerchen_006_f000030.wav,Chatterbox Multilingual,1,de,mlaad,1.3562536239624023,0.9768970428384187,1
+colab_pack/audio/mlaad/mlaad_08412.flac,piratesofersatz_08_leinster_64kb_f000058.wav,Kyutai-TTS,1,en,mlaad,2.4513700008392334,0.9988511897954259,1
+colab_pack/audio/mlaad/mlaad_09939.flac,dorothy_and_wizard_oz_09_f000014.wav,VoxCPM-0.5B,1,en,mlaad,1.3753975629806519,0.9780603161272893,1
+colab_pack/audio/mlaad/mlaad_09426.flac,tschun_17_f000034.wav,Llasa-1B-Multilingual,1,de,mlaad,1.6163591146469116,0.9885983988596652,1
+colab_pack/audio/mlaad/mlaad_10852.flac,Kanzlerin_08_15_f000007.wav,real,0,de,mlaad,-1.051222562789917,0.05204127167618532,0
+colab_pack/audio/mlaad/mlaad_07575.flac,ferien_vom_ich_013_f000511.wav,real,0,de,mlaad,-1.6603264808654785,0.010111469763005183,0
+colab_pack/audio/mlaad/mlaad_09164.flac,Kanzlerin_21_12_f000019.wav,Llasa-1B-Multilingual,1,de,mlaad,2.871405839920044,0.9996394565148238,1
+colab_pack/audio/mlaad/mlaad_09412.flac,jane_eyre_29_f000104.wav,Qwen2.5-Omni,1,en,mlaad,3.240595579147339,0.9998698661652144,1
+colab_pack/audio/mlaad/mlaad_08461.flac,Kanzlerin_18_15_f000052.wav,real,0,de,mlaad,-0.9414870738983154,0.06918283958493389,0
+colab_pack/audio/mlaad/mlaad_09679.flac,Die_Kanzlerin_direkt_25_07_f000012.wav,real,0,de,mlaad,-0.1635270118713379,0.3890102491490822,0
+colab_pack/audio/mlaad/mlaad_09598.flac,zweiplaneten_42_lasswitz_f000035.wav,real,0,de,mlaad,-3.315427303314209,0.00010584630746102893,0
+colab_pack/audio/mlaad/mlaad_07477.flac,the_master_key_20_f000117.wav,facebook_mms-tts-eng,1,en,mlaad,2.8660390377044678,0.9996340765498227,1
+colab_pack/audio/mlaad/mlaad_09643.flac,Kanzlerin_07_17_f000048.wav,real,0,de,mlaad,-1.9101355075836182,0.005098950076265135,0
+colab_pack/audio/mlaad/mlaad_08248.flac,Die_Kanzlerin_direkt_40_07_f000014.wav,real,0,de,mlaad,-1.3629299402236938,0.02269059017585941,0
+colab_pack/audio/mlaad/mlaad_07278.flac,Kanzlerin_08_17_f000019.wav,CaroTTS,1,de,mlaad,2.5873026847839355,0.999210380577436,1
+colab_pack/audio/mlaad/mlaad_08249.flac,Kanzlerin_25_15_f000010.wav,real,0,de,mlaad,-0.5590939521789551,0.1760157751278312,0
+colab_pack/audio/mlaad/mlaad_10152.flac,Kanzlerin_10_14_f000030.wav,real,0,de,mlaad,-1.1979632377624512,0.03531806982919028,0
+colab_pack/audio/mlaad/mlaad_08588.flac,the_sea_fairies_21_f000078.wav,suno_bark,1,en,mlaad,3.3176791667938232,0.9998948096361137,1
+colab_pack/audio/mlaad/mlaad_07624.flac,werde_die_du_bist_01_f000018.wav,Cartesia.ai (Sonic-3),1,de,mlaad,2.384711980819702,0.9986193866120759,1
+colab_pack/audio/mlaad/mlaad_08742.flac,das_letzte_marchen_012_f000467.wav,real,0,de,mlaad,-1.5427852869033813,0.013933776519779437,0
+colab_pack/audio/mlaad/mlaad_09187.flac,Die_Kanzlerin_direkt_03_08_f000021.wav,RVC,1,de,mlaad,2.204871416091919,0.9977336866715035,1
+colab_pack/audio/mlaad/mlaad_07307.flac,dorothy_and_wizard_oz_19_f000041.wav,Kitten-TTS-Nano-0.2,1,en,mlaad,3.451942205429077,0.9999273884939232,1
+colab_pack/audio/mlaad/mlaad_09578.flac,sterben_08_f000123.wav,Higgs-Audio-V2,1,de,mlaad,1.8219470977783203,0.9935045270516475,1
+colab_pack/audio/mlaad/mlaad_08180.flac,midnight_passenger_03_f000244.wav,optispeech,1,en,mlaad,2.375275135040283,0.9985829953924523,1
+colab_pack/audio/mlaad/mlaad_10276.flac,hunters_space_06_f000061.wav,real,0,en,mlaad,-3.2281134128570557,0.00013469599056048742,0
+colab_pack/audio/mlaad/mlaad_10165.flac,kleine_lord_11_f000051.wav,Chatterbox Multilingual,1,de,mlaad,2.0834481716156006,0.996833951418989,1
+colab_pack/audio/mlaad/mlaad_09730.flac,Kanzlerin_28_16_f000007.wav,real,0,de,mlaad,1.0092363357543945,0.9419340571576104,1
+colab_pack/audio/mlaad/mlaad_10223.flac,zweiplaneten_01_lasswitz_f000115.wav,OuteTTS,1,de,mlaad,3.0064566135406494,0.9997516425381165,1
+colab_pack/audio/mlaad/mlaad_09273.flac,altehaus_001_f000031.wav,Edge-TTS,1,de,mlaad,2.800372362136841,0.9995613737661175,1
+colab_pack/audio/mlaad/mlaad_08431.flac,northandsouth_03_f000065.wav,suno_bark,1,en,mlaad,3.5228796005249023,0.9999403026044553,1
+colab_pack/audio/mlaad/mlaad_09796.flac,grune_gesicht_11_f000280.wav,griffin_lim,1,de,mlaad,2.4259629249572754,0.998767815512285,1
+colab_pack/audio/mlaad/mlaad_10113.flac,zweiplaneten_11_lasswitz_f000262.wav,Chatterbox Multilingual,1,de,mlaad,2.939448595046997,0.9997011869604855,1
+colab_pack/audio/mlaad/mlaad_09905.flac,Kanzlerin_19_14_f000014.wav,real,0,de,mlaad,-1.1403173208236694,0.04116022325890114,0
+colab_pack/audio/mlaad/mlaad_08313.flac,ferien_vom_ich_003_f000012.wav,real,0,de,mlaad,-1.0113024711608887,0.05775473548187168,0
+colab_pack/audio/mlaad/mlaad_08835.flac,erzaehlungen_05_poe_f000174.wav,real,0,de,mlaad,-2.912383794784546,0.000321988850387919,0
+colab_pack/audio/mlaad/mlaad_07095.flac,caspar_hauser_16_f000139.wav,CaroTTS,1,de,mlaad,2.3641560077667236,0.9985388857263521,1
+colab_pack/audio/mlaad/mlaad_08744.flac,jane_eyre_21_f000208.wav,minimax_speech-02-turbo,1,en,mlaad,1.637766718864441,0.9892457067392834,1
+colab_pack/audio/mlaad/mlaad_09246.flac,Kanzlerin_08_14_f000053.wav,real,0,de,mlaad,-1.0217781066894531,0.05620082442687818,0
+colab_pack/audio/mlaad/mlaad_08099.flac,das_letzte_marchen_003_f000359.wav,real,0,de,mlaad,-0.9490882158279419,0.06784359245209733,0
+colab_pack/audio/mlaad/mlaad_07223.flac,erzaehlungen_20_poe_f000157.wav,NVidia Magpie-TTS Multilingual,1,de,mlaad,1.0505805015563965,0.9478712093169642,1
+colab_pack/audio/mlaad/mlaad_10228.flac,ferien_vom_ich_001_f000012.wav,real,0,de,mlaad,-0.7062896490097046,0.12455729988392529,0
+colab_pack/audio/mlaad/mlaad_09564.flac,erzaehlungen_25_poe_f000165.wav,real,0,de,mlaad,-3.0301353931427,0.00023264440023910293,0
+colab_pack/audio/mlaad/mlaad_07534.flac,menschenhasser_14_f000076.wav,FishTTS,1,de,mlaad,3.279752492904663,0.9998831991716176,1
+colab_pack/audio/mlaad/mlaad_08787.flac,grune_gesicht_01_f000185.wav,griffin_lim,1,de,mlaad,2.768261194229126,0.9995207313534077,1
+colab_pack/audio/mlaad/mlaad_10298.flac,grune_gesicht_13_f000084.wav,griffin_lim,1,de,mlaad,3.41554594039917,0.9999197135746143,1
+colab_pack/audio/mlaad/mlaad_10690.flac,hunters_space_10_f000037.wav,real,0,en,mlaad,-2.2288057804107666,0.002121705031030364,0
+colab_pack/audio/mlaad/mlaad_07785.flac,Kanzlerin_29_17_f000045.wav,real,0,de,mlaad,-0.9291998147964478,0.07139957155344699,0
+colab_pack/audio/mlaad/mlaad_08827.flac,the_sea_fairies_11_f000063.wav,OuteTTS,1,en,mlaad,2.2131567001342773,0.9977848254450075,1
+colab_pack/audio/mlaad/mlaad_09410.flac,Kanzlerin_21_12_f000019.wav,real,0,de,mlaad,-1.2359009981155396,0.03191807048552375,0
+colab_pack/audio/mlaad/mlaad_09427.flac,Kanzlerin_20_12_f000004.wav,real,0,de,mlaad,-1.00577712059021,0.05859050486333364,0
+colab_pack/audio/mlaad/mlaad_07600.flac,Kanzlerin_29_15_f000017.wav,real,0,de,mlaad,-1.4963268041610718,0.015810526382343267,0
+colab_pack/audio/mlaad/mlaad_09396.flac,ferien_vom_ich_011_f000339.wav,real,0,de,mlaad,-1.143756628036499,0.04078710444790112,0
+colab_pack/audio/mlaad/mlaad_08114.flac,tschun_02_f000070.wav,Kartoffelbox,1,de,mlaad,2.099195718765259,0.996968243032809,1
+colab_pack/audio/mlaad/mlaad_10781.flac,northandsouth_36_f000170.wav,Maya1 TTS,1,en,mlaad,3.1208608150482178,0.9998188939351718,1
+colab_pack/audio/mlaad/mlaad_09095.flac,Kanzlerin_33_15_f000033.wav,real,0,de,mlaad,-0.6045593023300171,0.15854407076393429,0
+colab_pack/audio/mlaad/mlaad_10620.flac,alter_afrikaner_04_f000266.wav,griffin_lim,1,de,mlaad,-1.5986030101776123,0.01196760178709991,0
+colab_pack/audio/mlaad/mlaad_07247.flac,ferien_vom_ich_010_f000193.wav,real,0,de,mlaad,-0.9765819311141968,0.0631978481235586,0
+colab_pack/audio/mlaad/mlaad_08330.flac,undine_05_f000037.wav,Chatterbox Multilingual,1,de,mlaad,1.7001134157180786,0.9909308654603857,1
+colab_pack/audio/mlaad/mlaad_09260.flac,northandsouth_37_f000190.wav,orpheus-tts-0.1-finetune,1,en,mlaad,3.291332960128784,0.9998868740456475,1
+colab_pack/audio/mlaad/mlaad_10682.flac,ferien_vom_ich_007_f000156.wav,NVidia Magpie-TTS Multilingual,1,de,mlaad,2.4217026233673096,0.9987532550684237,1
+colab_pack/audio/mlaad/mlaad_07679.flac,zweiplaneten_57_lasswitz_f000119.wav,real,0,de,mlaad,-2.550732374191284,0.0008734339875932336,0
+colab_pack/audio/mlaad/mlaad_08799.flac,kleine_lord_03_f000089.wav,real,0,de,mlaad,-3.377009868621826,8.929844559439631e-05,0
+colab_pack/audio/mlaad/mlaad_08399.flac,ferien_vom_ich_012_f000134.wav,real,0,de,mlaad,-1.090871810913086,0.046898320330519154,0
+colab_pack/audio/mlaad/mlaad_10233.flac,spiegel_kaetzchen_01_f000103.wav,griffin_lim,1,de,mlaad,3.5976383686065674,0.9999514350852854,1
+colab_pack/audio/mlaad/mlaad_08770.flac,wives_and_daughters_05_f000245.wav,e2-tts,1,en,mlaad,1.1791213750839233,0.9628660996824662,1
+colab_pack/audio/mlaad/mlaad_08532.flac,Kanzlerin_29_17_f000035.wav,CaroTTS,1,de,mlaad,2.3601739406585693,0.9985227575995413,1
+colab_pack/audio/mlaad/mlaad_10543.flac,erzaehlungen_28_poe_f000442.wav,Kartoffelbox,1,de,mlaad,2.749645709991455,0.999495468295832,1
+colab_pack/audio/mlaad/mlaad_10194.flac,frankenstein_15_f000105.wav,real,0,de,mlaad,-3.1036298274993896,0.00018992823698177835,0
+colab_pack/audio/mlaad/mlaad_08424.flac,zweiplaneten_56_lasswitz_f000230.wav,RVC,1,de,mlaad,1.7256563901901245,0.9915431726014328,1
+colab_pack/audio/mlaad/mlaad_08922.flac,das_letzte_marchen_002_f000220.wav,real,0,de,mlaad,-0.81898033618927,0.09439743958268505,0
+colab_pack/audio/mlaad/mlaad_09584.flac,liebesbriefe_12_f000050.wav,Cartesia.ai (Sonic-3),1,de,mlaad,2.125422716140747,0.9971794126567727,1
+colab_pack/audio/mlaad/mlaad_10118.flac,caspar_hauser_27_f000260.wav,Kartoffelbox,1,de,mlaad,2.2629942893981934,0.9980690316610905,1
+colab_pack/audio/mlaad/mlaad_10824.flac,caspar_hauser_02_f000112.wav,griffin_lim,1,de,mlaad,0.5519685745239258,0.8211128835626392,1
+colab_pack/audio/mlaad/mlaad_08766.flac,pink_fairy_book_30_f000035.wav,parler_tts_large_v1,1,en,mlaad,2.098555564880371,0.9969628963389148,1
+colab_pack/audio/mlaad/mlaad_09183.flac,the_sea_fairies_15_f000141.wav,real,0,en,mlaad,-2.8140103816986084,0.000422424718768123,0
+colab_pack/audio/mlaad/mlaad_08057.flac,maedchenvommoorhof_8_f000024.wav,griffin_lim,1,de,mlaad,-0.18190042674541473,0.3770236022339371,0
+colab_pack/audio/mlaad/mlaad_08535.flac,erzaehlungen_16_poe_f000034.wav,griffin_lim,1,de,mlaad,0.7477011680603027,0.8873841074805117,1
+colab_pack/audio/mlaad/mlaad_08243.flac,das_letzte_marchen_007_f000336.wav,real,0,de,mlaad,-0.7997431755065918,0.09903656408175854,0
+colab_pack/audio/mlaad/mlaad_08147.flac,ferien_vom_ich_013_f000276.wav,real,0,de,mlaad,-0.41910555958747864,0.23919644908034296,0
+colab_pack/audio/mlaad/mlaad_08168.flac,pink_fairy_book_01_f000009.wav,Nari Dia-1.6B,1,en,mlaad,1.7865928411483765,0.9928433091266659,1
+colab_pack/audio/mlaad/mlaad_08102.flac,Kanzlerin_21_12_f000017.wav,real,0,de,mlaad,-0.5053354501724243,0.19858554155809008,0
+colab_pack/audio/mlaad/mlaad_09714.flac,Kanzlerin_30_17_f000050.wav,real,0,de,mlaad,-1.7209219932556152,0.008567138845799575,0
+colab_pack/audio/mlaad/mlaad_10020.flac,alter_afrikaner_17_f000014.wav,griffin_lim,1,de,mlaad,-2.010091543197632,0.0038740515541187165,0
+colab_pack/audio/mlaad/mlaad_09727.flac,das_letzte_marchen_006_f000167.wav,real,0,de,mlaad,-0.05380764603614807,0.46292936231431003,0
+colab_pack/audio/mlaad/mlaad_08842.flac,Die_Kanzlerin_direkt_20_08_f000014.wav,real,0,de,mlaad,-1.0822017192840576,0.04797995097591403,0
+colab_pack/audio/mlaad/mlaad_10616.flac,northandsouth_13_f000129.wav,parler_tts_large_v1,1,en,mlaad,2.445005178451538,0.9988308478907107,1
+colab_pack/audio/mlaad/mlaad_10009.flac,Kanzlerin_10_14_f000060.wav,real,0,de,mlaad,-1.1060408353805542,0.04506147835997753,0
+colab_pack/audio/mlaad/mlaad_09126.flac,dorothy_and_wizard_oz_03_f000021.wav,parler_tts_mini_v0.1,1,en,mlaad,2.9316070079803467,0.9996946492722086,1
+colab_pack/audio/mlaad/mlaad_10326.flac,Kanzlerin_38_17_f000041.wav,"Resemble.ai (April 12th, 2025)",1,de,mlaad,2.7840068340301514,0.9995411101344615,1
+colab_pack/audio/mlaad/mlaad_09402.flac,midnight_passenger_15_f000084.wav,sesame_csm,1,en,mlaad,2.351287364959717,0.9984861213959347,1
+colab_pack/audio/mlaad/mlaad_09058.flac,altehaus_013_f000143.wav,CaroTTS,1,de,mlaad,2.1362221240997314,0.9972620419841711,1
+colab_pack/audio/mlaad/mlaad_07147.flac,das_letzte_marchen_011_f000066.wav,real,0,de,mlaad,-0.354204922914505,0.2733069394287189,0
+colab_pack/audio/mlaad/mlaad_09219.flac,ferien_vom_ich_007_f000009.wav,CaroTTS,1,de,mlaad,2.1445088386535645,0.997323805292812,1
+colab_pack/audio/mlaad/mlaad_10156.flac,wives_and_daughters_02_f000183.wav,parler_tts_mini_v0.1,1,en,mlaad,3.099971294403076,0.9998081440068766,1
+colab_pack/audio/mlaad/mlaad_08037.flac,Kanzlerin_25_15_f000010.wav,CaroTTS,1,de,mlaad,2.100054979324341,0.9969754050010377,1
+colab_pack/audio/mlaad/mlaad_08111.flac,Kanzlerin_26_17_f000020.wav,real,0,de,mlaad,-0.7176518440246582,0.12117678622410553,0
+colab_pack/audio/mlaad/mlaad_10110.flac,northandsouth_24_f000112.wav,real,0,en,mlaad,-3.183868169784546,0.0001521942325874425,0
+colab_pack/audio/mlaad/mlaad_10811.flac,das_letzte_marchen_009_f000071.wav,real,0,de,mlaad,-1.4711039066314697,0.016931455126899926,0
+colab_pack/audio/mlaad/mlaad_09726.flac,silent_bullet_06_f000178.wav,Kitten-TTS-Nano-0.2,1,en,mlaad,3.04475998878479,0.999776559777913,1
+colab_pack/audio/mlaad/mlaad_08809.flac,Kanzlerin_25_17_f000004.wav,NVidia Magpie-TTS Multilingual,1,de,mlaad,2.061375141143799,0.9966356800802457,1
+colab_pack/audio/mlaad/mlaad_09463.flac,the_sea_fairies_11_f000008.wav,microsoft_speecht5_tts,1,en,mlaad,3.52274227142334,0.9999402799674967,1
+colab_pack/audio/mlaad/mlaad_10994.flac,schmied_seines_glueckes_4_f000058.wav,Cartesia.ai (Sonic-3),1,de,mlaad,2.094858169555664,0.996931830491572,1
+colab_pack/audio/mlaad/mlaad_10178.flac,Kanzlerin_20_15_f000008.wav,real,0,de,mlaad,-1.4738576412200928,0.016805374103029243,0
+colab_pack/audio/mlaad/mlaad_07559.flac,ferien_vom_ich_011_f000020.wav,real,0,de,mlaad,-0.5406738519668579,0.18351344324353447,0
+colab_pack/audio/mlaad/mlaad_09810.flac,Kanzlerin_14_16_f000030.wav,real,0,de,mlaad,-1.8908923864364624,0.005375673950833121,0
+colab_pack/audio/mlaad/mlaad_09989.flac,Kanzlerin_08_13_f000031.wav,real,0,de,mlaad,-0.7090367078781128,0.12373264611561612,0
+colab_pack/audio/mlaad/mlaad_07543.flac,erzaehlungen_11_poe_f000178.wav,Edge-TTS,1,de,mlaad,2.072734832763672,0.9967392173285978,1
+colab_pack/audio/mlaad/mlaad_09859.flac,ferien_vom_ich_010_f000035.wav,real,0,de,mlaad,-0.32235682010650635,0.2911138131519786,0
+colab_pack/audio/mlaad/mlaad_08226.flac,Kanzlerin_11_13_f000032.wav,real,0,de,mlaad,-0.8206490278244019,0.09400433679426837,0
+colab_pack/audio/mlaad/mlaad_10895.flac,Kanzlerin_42_13_f000018.wav,CaroTTS,1,de,mlaad,2.7489449977874756,0.9994944917954428,1
+colab_pack/audio/mlaad/mlaad_10862.flac,Kanzlerin_13_17_f000021.wav,real,0,de,mlaad,-1.2185051441192627,0.03343591582650011,0
+colab_pack/audio/mlaad/mlaad_08615.flac,Kanzlerin_39_16_f000041.wav,Kani-TTS-370M,1,de,mlaad,2.3179054260253906,0.9983402092434713,1
+colab_pack/audio/mlaad/mlaad_10595.flac,Kanzlerin_30_13_f000032.wav,real,0,de,mlaad,-1.7848347425460815,0.007191262453061935,0
+colab_pack/audio/mlaad/mlaad_08251.flac,midnight_passenger_15_f000031.wav,WhisperSpeech,1,en,mlaad,2.200958251953125,0.9977091257994247,1
+colab_pack/audio/mlaad/mlaad_08724.flac,ferien_vom_ich_011_f000444.wav,real,0,de,mlaad,-0.3681047260761261,0.265751853055076,0
+colab_pack/audio/mlaad/mlaad_10831.flac,jane_eyre_20_f000238.wav,VoxCPM-1.5,1,en,mlaad,1.1863079071044922,0.9635690347280292,1
+colab_pack/audio/mlaad/mlaad_09033.flac,pink_fairy_book_40_f000191.wav,zonosTTS-v0.1,1,en,mlaad,-1.552183747291565,0.013581723497470827,0
+colab_pack/audio/mlaad/mlaad_10495.flac,ferien_vom_ich_007_f000228.wav,real,0,de,mlaad,-3.1848089694976807,0.0001517994942925357,0
+colab_pack/audio/mlaad/mlaad_08621.flac,das_letzte_marchen_007_f000081.wav,real,0,de,mlaad,-1.8450024127960205,0.006097346729592884,0
+colab_pack/audio/mlaad/mlaad_07233.flac,wives_and_daughters_45_f000033.wav,MeloTTS,1,en,mlaad,2.5680267810821533,0.9991672562961087,1
+colab_pack/audio/mlaad/mlaad_08096.flac,ferien_vom_ich_013_f000052.wav,real,0,de,mlaad,-0.8423898220062256,0.08901538420006885,0
+colab_pack/audio/mlaad/mlaad_09767.flac,das_letzte_marchen_004_f000020.wav,real,0,de,mlaad,-0.54746413230896,0.1807211143269024,0
+colab_pack/audio/mlaad/mlaad_08324.flac,the_sea_fairies_22_f000008.wav,Marvis-TTS,1,en,mlaad,3.1575493812561035,0.9998363371597112,1
+colab_pack/audio/mlaad/mlaad_07596.flac,Kanzlerin_05_17_f000025.wav,real,0,de,mlaad,-1.1881860494613647,0.03624937938464283,0
+colab_pack/audio/mlaad/mlaad_10896.flac,Kanzlerin_16_14_f000019.wav,real,0,de,mlaad,-2.279069185256958,0.0018472997257441917,0
+colab_pack/audio/mlaad/mlaad_07388.flac,ferien_vom_ich_012_f000157.wav,real,0,de,mlaad,-1.2204025983810425,0.03326702823634769,0
+colab_pack/audio/mlaad/mlaad_07257.flac,erzaehlungen_20_poe_f000303.wav,"Resemble.ai (April 12th, 2025)",1,de,mlaad,3.509970188140869,0.9999381366912633,1
+colab_pack/audio/mlaad/mlaad_08238.flac,zweiplaneten_34_lasswitz_f000157.wav,Llasa-1B-Multilingual,1,de,mlaad,2.1565487384796143,0.9974110743758967,1
+colab_pack/audio/mlaad/mlaad_08437.flac,Kanzlerin_32_13_f000030.wav,real,0,de,mlaad,-0.3922203779220581,0.2529644342453496,0
+colab_pack/audio/mlaad/mlaad_09323.flac,wives_and_daughters_39_f000096.wav,parler_tts_mini_v1,1,en,mlaad,2.619717836380005,0.9992779278057982,1
+colab_pack/audio/mlaad/mlaad_07885.flac,erzaehlungen_14_poe_f000107.wav,Chatterbox Multilingual,1,de,mlaad,2.4944214820861816,0.998979802104469,1
+colab_pack/audio/mlaad/mlaad_07627.flac,das_letzte_marchen_006_f000333.wav,real,0,de,mlaad,-0.43528810143470764,0.2311609078926385,0
+colab_pack/audio/mlaad/mlaad_07134.flac,tschun_09_f000120.wav,CaroTTS,1,de,mlaad,2.4066648483276367,0.9987004729654454,1
+colab_pack/audio/mlaad/mlaad_07227.flac,Kanzlerin_14_16_f000036.wav,real,0,de,mlaad,-0.6235624551773071,0.15166956277876886,0
+colab_pack/audio/mlaad/mlaad_10964.flac,pink_fairy_book_22_f000123.wav,real,0,en,mlaad,-2.8308191299438477,0.0004032770829713367,0
+colab_pack/audio/mlaad/mlaad_09863.flac,das_letzte_marchen_008_f000282.wav,real,0,de,mlaad,-1.7234647274017334,0.008507716976530423,0
+colab_pack/audio/mlaad/mlaad_09909.flac,erzaehlungen_21_poe_f000267.wav,griffin_lim,1,de,mlaad,-0.43982425332069397,0.22894263102700205,0
+colab_pack/audio/mlaad/mlaad_10815.flac,erzaehlungen_23_poe_f000025.wav,Kartoffelbox,1,de,mlaad,1.4579464197158813,0.9824531770788262,1
+colab_pack/audio/mlaad/mlaad_10392.flac,sandmann_2_f000016.wav,griffin_lim,1,de,mlaad,-0.17593622207641602,0.38089891608122195,0
+colab_pack/audio/mlaad/mlaad_09620.flac,das_letzte_marchen_011_f000095.wav,real,0,de,mlaad,-2.0064334869384766,0.003913221373223089,0
+colab_pack/audio/mlaad/mlaad_07652.flac,Kanzlerin_19_13_f000006.wav,real,0,de,mlaad,-1.2722786664962769,0.028956462538706967,0
+colab_pack/audio/mlaad/mlaad_07817.flac,tom_sawyer_13_f000064.wav,OuteTTS,1,de,mlaad,2.002037286758423,0.9960391826482222,1
+colab_pack/audio/mlaad/mlaad_08892.flac,das_letzte_marchen_013_f000102.wav,real,0,de,mlaad,-1.7338213920593262,0.008269881839005004,0
+colab_pack/audio/mlaad/mlaad_08398.flac,zweiplaneten_03_lasswitz_f000101.wav,griffin_lim,1,de,mlaad,-0.661156415939331,0.13879225588671873,0
+colab_pack/audio/mlaad/mlaad_07723.flac,grune_gesicht_03_f000235.wav,real,0,de,mlaad,-3.2108547687530518,0.00014126850509619268,0
+colab_pack/audio/mlaad/mlaad_07129.flac,Kanzlerin_15_13_f000044.wav,real,0,de,mlaad,-0.9328045845031738,0.07074252884555499,0
+colab_pack/audio/mlaad/mlaad_07980.flac,ferien_vom_ich_003_f000072.wav,real,0,de,mlaad,-1.7975990772247314,0.006943981374267561,0
+colab_pack/audio/mlaad/mlaad_09696.flac,das_letzte_marchen_003_f000072.wav,real,0,de,mlaad,-0.1278773546218872,0.41264277403121596,0
+colab_pack/audio/mlaad/mlaad_07513.flac,ozma_of_oz_16_f000033.wav,Llasa-1B-Multilingual,1,en,mlaad,2.3551838397979736,0.9985022955592355,1
+colab_pack/audio/mlaad/mlaad_08792.flac,grune_gesicht_16_f000027.wav,"Resemble.ai (April 12th, 2025)",1,de,mlaad,2.6702752113342285,0.9993719388212416,1
+colab_pack/audio/mlaad/mlaad_10802.flac,odysseus_08_f000104.wav,griffin_lim,1,de,mlaad,-1.3531436920166016,0.023297533594715193,0
+colab_pack/audio/mlaad/mlaad_09496.flac,zweiplaneten_54_lasswitz_f000126.wav,griffin_lim,1,de,mlaad,-0.3933093249797821,0.2523967217230229,0
+colab_pack/audio/mlaad/mlaad_07907.flac,das_letzte_marchen_003_f000177.wav,real,0,de,mlaad,-0.24548807740211487,0.3367620617036145,0
+colab_pack/audio/mlaad/mlaad_10614.flac,untermbirnbaum_02_f000056.wav,NVidia Magpie-TTS Multilingual,1,de,mlaad,2.7101244926452637,0.9994373347341731,1
+colab_pack/audio/mlaad/mlaad_09627.flac,piratesofersatz_08_leinster_64kb_f000122.wav,Voxtream,1,en,mlaad,3.3621537685394287,0.9999069631275989,1
+colab_pack/audio/mlaad/mlaad_07707.flac,das_letzte_marchen_009_f000125.wav,real,0,de,mlaad,-1.0654569864273071,0.050136306546243056,0
+colab_pack/audio/mlaad/mlaad_08694.flac,tschun_04_f000065.wav,griffin_lim,1,de,mlaad,-0.7416210174560547,0.114304359101906,0
+colab_pack/audio/mlaad/mlaad_08602.flac,Kanzlerin_25_17_f000004.wav,real,0,de,mlaad,-0.6797916889190674,0.13275608118847576,0
+colab_pack/audio/mlaad/mlaad_08882.flac,ferien_vom_ich_013_f000195.wav,real,0,de,mlaad,0.45478272438049316,0.7782659318345808,1
+colab_pack/audio/mlaad/mlaad_09037.flac,neujahr_2007_2008_f000025.wav,real,0,de,mlaad,-0.5418250560760498,0.18303769633640293,0
+colab_pack/audio/mlaad/mlaad_09988.flac,Kanzlerin_43_12_f000015.wav,real,0,de,mlaad,-1.0208404064178467,0.05633830111446512,0
+colab_pack/audio/mlaad/mlaad_07711.flac,Kanzlerin_06_14_f000038.wav,facebook_mms-tts-deu,1,de,mlaad,2.5191662311553955,0.999047107028064,1
+colab_pack/audio/mlaad/mlaad_09675.flac,poisoned_pen_09_f000217.wav,real,0,en,mlaad,-3.264930486679077,0.00012167903353950688,0
+colab_pack/audio/mlaad/mlaad_07304.flac,Kanzlerin_25_13_f000007.wav,real,0,de,mlaad,-0.9231380224227905,0.07251716911975377,0
+colab_pack/audio/mlaad/mlaad_08490.flac,Kanzlerin_28_12_f000032.wav,real,0,de,mlaad,-0.4981133043766022,0.20177794871742638,0
+colab_pack/audio/mlaad/mlaad_07489.flac,alter_afrikaner_05_f000258.wav,real,0,de,mlaad,-3.5344550609588623,5.781984724510638e-05,0
+colab_pack/audio/mlaad/mlaad_07424.flac,Kanzlerin_08_17_f000019.wav,real,0,de,mlaad,-0.7369769811630249,0.1156088277543512,0
+colab_pack/audio/mlaad/mlaad_08085.flac,ferien_vom_ich_004_f000303.wav,real,0,de,mlaad,-0.7373001575469971,0.11551763301649765,0
+colab_pack/audio/mlaad/mlaad_09492.flac,wives_and_daughters_38_f000009.wav,MatchaTTS,1,en,mlaad,0.19700881838798523,0.6327221951845811,1
+colab_pack/audio/mlaad/mlaad_09018.flac,kleine_lord_10_f000114.wav,Cartesia.ai (Sonic-3),1,de,mlaad,2.2813987731933594,0.9981645216073525,1
+colab_pack/audio/mlaad/mlaad_10041.flac,wives_and_daughters_20_f000178.wav,real,0,en,mlaad,-2.608833074569702,0.0007440843149971527,0
+colab_pack/audio/mlaad/mlaad_09647.flac,ferien_vom_ich_007_f000189.wav,real,0,de,mlaad,-1.5445256233215332,0.013867914063620448,0
+colab_pack/audio/mlaad/mlaad_09188.flac,ozma_of_oz_06_f000006.wav,DeepGram,1,en,mlaad,2.845778703689575,0.9996130331742686,1
+colab_pack/audio/mlaad/mlaad_09830.flac,wives_and_daughters_11_f000015.wav,griffin_lim,1,en,mlaad,-2.913891315460205,0.000320651931415917,0
+colab_pack/audio/mlaad/mlaad_08945.flac,piratesofersatz_11_leinster_64kb_f000035.wav,griffin_lim,1,en,mlaad,-0.43315544724464417,0.23220900312527426,0
+colab_pack/audio/mlaad/mlaad_08480.flac,hunters_space_11_f000052.wav,real,0,en,mlaad,-3.1367528438568115,0.00017333307423907172,0
+colab_pack/audio/mlaad/mlaad_07211.flac,northandsouth_22_f000138.wav,Indri-TTS-0.1,1,en,mlaad,3.382349967956543,0.9999120083306063,1
+colab_pack/audio/mlaad/mlaad_09394.flac,ferien_vom_ich_003_f000088.wav,griffin_lim,1,de,mlaad,0.7174251079559326,0.8787565349003651,1
+colab_pack/audio/mlaad/mlaad_10701.flac,Kanzlerin_42_13_f000018.wav,real,0,de,mlaad,-0.7982838153839111,0.09939665362745077,0
+colab_pack/audio/mlaad/mlaad_10603.flac,das_letzte_marchen_009_f000087.wav,real,0,de,mlaad,-0.5305689573287964,0.1877305597379612,0
+colab_pack/audio/mlaad/mlaad_08219.flac,tom_sawyer_16_f000053.wav,griffin_lim,1,de,mlaad,3.0284154415130615,0.9997662485106811,1
+colab_pack/audio/mlaad/mlaad_08719.flac,Kanzlerin_29_16_f000009.wav,real,0,de,mlaad,-1.448495626449585,0.018002334180582252,0
+colab_pack/audio/mlaad/mlaad_09636.flac,das_letzte_marchen_008_f000372.wav,real,0,de,mlaad,-1.3958848714828491,0.020758209158056092,0
+colab_pack/audio/mlaad/mlaad_09070.flac,das_letzte_marchen_010_f000067.wav,real,0,de,mlaad,0.16222888231277466,0.6101375753385353,1
+colab_pack/audio/mlaad/mlaad_07009.flac,ferien_vom_ich_012_f000093.wav,real,0,de,mlaad,-0.14954239130020142,0.39822535359902794,0
+colab_pack/audio/mlaad/mlaad_08081.flac,Kanzlerin_28_17_f000024.wav,real,0,de,mlaad,-1.3080153465270996,0.026307493894824403,0
+colab_pack/audio/mlaad/mlaad_07982.flac,Kanzlerin_26_12_f000015.wav,real,0,de,mlaad,-1.4576724767684937,0.017559865776425904,0
+colab_pack/audio/mlaad/mlaad_09214.flac,Die_Kanzlerin_direkt_21_08_f000012.wav,real,0,de,mlaad,-0.6193767786026001,0.153162424979704,0
+colab_pack/audio/mlaad/mlaad_08906.flac,jane_eyre_25_f000143.wav,real,0,en,mlaad,-3.232663869857788,0.00013301459292462738,0
+colab_pack/audio/mlaad/mlaad_08151.flac,pink_fairy_book_07_f000055.wav,f5-tts,1,en,mlaad,2.935159921646118,0.999697628939138,1
+colab_pack/audio/mlaad/mlaad_10530.flac,ferien_vom_ich_009_f000107.wav,real,0,de,mlaad,1.0466426610946655,0.9473313950747723,1
+colab_pack/audio/mlaad/mlaad_08519.flac,ferien_vom_ich_003_f000217.wav,real,0,de,mlaad,-1.183685064315796,0.03668601678076439,0
+colab_pack/audio/mlaad/mlaad_09597.flac,alter_afrikaner_11_f000090.wav,real,0,de,mlaad,-3.2342607975006104,0.0001324295150109174,0
+colab_pack/audio/mlaad/mlaad_08953.flac,Kanzlerin_21_15_f000047.wav,real,0,de,mlaad,-0.8708935976028442,0.08283690702718441,0
+colab_pack/audio/mlaad/mlaad_08631.flac,erzaehlungen_34_poe_f000179.wav,Cartesia.ai (Sonic-3),1,de,mlaad,3.1560158729553223,0.9998356428899821,1
+colab_pack/audio/mlaad/mlaad_08129.flac,alter_afrikaner_12_f000029.wav,real,0,de,mlaad,-2.986346960067749,0.0002625324677615241,0
+colab_pack/audio/mlaad/mlaad_09625.flac,Kanzlerin_10_12_f000028.wav,real,0,de,mlaad,-0.804837703704834,0.09778860337654052,0
+colab_pack/audio/mlaad/mlaad_10468.flac,zweiplaneten_56_lasswitz_f000106.wav,real,0,de,mlaad,-2.9384443759918213,0.00029964240078365407,0
+colab_pack/audio/mlaad/mlaad_10476.flac,Kanzlerin_02_14_f000040.wav,real,0,de,mlaad,0.7010375261306763,0.8738529142269276,1
+colab_pack/audio/mlaad/mlaad_08335.flac,alter_afrikaner_29_f000114.wav,real,0,de,mlaad,-3.641979694366455,4.296934444609237e-05,0
+colab_pack/audio/mlaad/mlaad_10062.flac,wives_and_daughters_03_f000139.wav,e2-tts,1,en,mlaad,2.4365346431732178,0.9988032170811032,1
+colab_pack/audio/mlaad/mlaad_09299.flac,das_letzte_marchen_010_f000313.wav,real,0,de,mlaad,-1.095189094543457,0.0463684049476428,0
+colab_pack/audio/mlaad/mlaad_09513.flac,das_letzte_marchen_010_f000077.wav,real,0,de,mlaad,-0.5214078426361084,0.1916178547673063,0
+colab_pack/audio/mlaad/mlaad_09111.flac,Kanzlerin_31_12_f000003.wav,"Resemble.ai (April 12th, 2025)",1,de,mlaad,2.909252882003784,0.9996752167222834,1
+colab_pack/audio/mlaad/mlaad_09789.flac,ferien_vom_ich_003_f000150.wav,real,0,de,mlaad,-0.6971803903579712,0.12732564803748195,0
+colab_pack/audio/mlaad/mlaad_07263.flac,emerald_city_of_oz_13_f000016.wav,parler_tts_mini_v1,1,en,mlaad,2.7216384410858154,0.9994549300413424,1
+colab_pack/audio/mlaad/mlaad_07599.flac,das_letzte_marchen_011_f000413.wav,real,0,de,mlaad,-1.456549882888794,0.017613413768129506,0
+colab_pack/audio/mlaad/mlaad_10715.flac,grune_haus_07_f000009.wav,facebook_mms-tts-deu,1,de,mlaad,2.595682144165039,0.9992284243945878,1
+colab_pack/audio/mlaad/mlaad_07978.flac,ferien_vom_ich_012_f000174.wav,real,0,de,mlaad,-0.34684112668037415,0.277363316409127,0
+colab_pack/audio/mlaad/mlaad_07442.flac,ferien_vom_ich_011_f000020.wav,RVC,1,de,mlaad,1.4094812870025635,0.9799912612929926,1
+colab_pack/audio/mlaad/mlaad_10636.flac,wives_and_daughters_38_f000061.wav,VoxCPM-0.5B,1,en,mlaad,2.3815062046051025,0.9986071300975629,1
+colab_pack/audio/mlaad/mlaad_08727.flac,hunters_space_12_f000038.wav,MatchaTTS,1,en,mlaad,2.714540481567383,0.9994441492590447,1
+colab_pack/audio/mlaad/mlaad_07463.flac,Kanzlerin_07_17_f000011.wav,RVC,1,de,mlaad,2.6959068775177,0.9994148225371967,1
+colab_pack/audio/mlaad/mlaad_07488.flac,Kanzlerin_12_13_f000038.wav,real,0,de,mlaad,-1.0854902267456055,0.04756693504302206,0
+colab_pack/audio/mlaad/mlaad_10961.flac,pink_fairy_book_11_f000022.wav,MatchaTTS,1,en,mlaad,2.3027617931365967,0.9982694659385349,1
+colab_pack/audio/mlaad/mlaad_10490.flac,Kanzlerin_26_15_f000014.wav,real,0,de,mlaad,-1.276762843132019,0.028610379871639387,0
+colab_pack/audio/mlaad/mlaad_08206.flac,pink_fairy_book_12_f000140.wav,MegaTTS3,1,en,mlaad,2.9164044857025146,0.9996815645054541,1
+colab_pack/audio/mlaad/mlaad_08182.flac,toten_seelen_20_f000168.wav,Chatterbox Multilingual,1,de,mlaad,2.169588804244995,0.9975023937227027,1
+colab_pack/audio/mlaad/mlaad_09518.flac,toten_seelen_11_f000191.wav,CaroTTS,1,de,mlaad,2.110144853591919,0.9970582530479943,1
+colab_pack/audio/mlaad/mlaad_08717.flac,odysseus_08_f000226.wav,griffin_lim,1,de,mlaad,0.5310801267623901,0.8124845461327151,1
+colab_pack/audio/mlaad/mlaad_08333.flac,tom_sawyer_17_f000081.wav,Chatterbox Multilingual,1,de,mlaad,0.34260836243629456,0.7202883312141519,1
+colab_pack/audio/mlaad/mlaad_07485.flac,Kanzlerin_32_14_f000046.wav,real,0,de,mlaad,-1.0743069648742676,0.048985425137277924,0
+colab_pack/audio/mlaad/mlaad_10783.flac,grune_gesicht_15_f000154.wav,Higgs-Audio-V2,1,de,mlaad,2.093377113342285,0.996919297843983,1
+colab_pack/audio/mlaad/mlaad_09182.flac,ferien_vom_ich_013_f000052.wav,griffin_lim,1,de,mlaad,-0.5380924940109253,0.18458369931132892,0
+colab_pack/audio/mlaad/mlaad_09499.flac,northandsouth_46_f000089.wav,griffin_lim,1,en,mlaad,3.4717984199523926,0.9999312616598584,1
+colab_pack/audio/mlaad/mlaad_09532.flac,the_sea_fairies_21_f000033.wav,griffin_lim,1,en,mlaad,0.5347045660018921,0.8140043139049551,1
+colab_pack/audio/mlaad/mlaad_07126.flac,herrnarnesschatz_01_f000136.wav,griffin_lim,1,de,mlaad,0.8771990537643433,0.9184761308814062,1
+colab_pack/audio/mlaad/mlaad_08274.flac,ferien_vom_ich_013_f000209.wav,real,0,de,mlaad,-0.5399267673492432,0.1838226962100981,0
+colab_pack/audio/mlaad/mlaad_09098.flac,zweiplaneten_35_lasswitz_f000230.wav,griffin_lim,1,de,mlaad,0.314349502325058,0.7043030534726563,1
+colab_pack/audio/mlaad/mlaad_07244.flac,wives_and_daughters_55_f000079.wav,real,0,en,mlaad,-3.0929956436157227,0.00019558598227951559,0
+colab_pack/audio/mlaad/mlaad_10986.flac,toten_seelen_17_f000150.wav,Edge-TTS,1,de,mlaad,3.5230929851531982,0.9999403377611795,1
+colab_pack/audio/mlaad/mlaad_07252.flac,erzaehlungen_21_poe_f000257.wav,real,0,de,mlaad,-2.7752559185028076,0.0004701063899956125,0
+colab_pack/audio/mlaad/mlaad_08777.flac,erzaehlungen_33_poe_f000150.wav,Chatterbox Multilingual,1,de,mlaad,2.3475332260131836,0.998470373124506,1
+colab_pack/audio/mlaad/mlaad_09252.flac,ferien_vom_ich_002_f000264.wav,real,0,de,mlaad,-0.028656035661697388,0.4802315148498654,0
+colab_pack/audio/mlaad/mlaad_10951.flac,alter_afrikaner_01_f000167.wav,CaroTTS,1,de,mlaad,2.9534850120544434,0.9997125419526359,1
+colab_pack/audio/mlaad/mlaad_07905.flac,wives_and_daughters_19_f000074.wav,Microsoft VibeVoice Large,1,en,mlaad,2.537625789642334,0.9990944108194136,1
+colab_pack/audio/mlaad/mlaad_10285.flac,erzaehlungen_13_poe_f000044.wav,Edge-TTS,1,de,mlaad,3.043119430541992,0.9997755456724035,1
+colab_pack/audio/mlaad/mlaad_09379.flac,grune_haus_08_f000163.wav,real,0,de,mlaad,-3.018440008163452,0.00024027707704795932,0
+colab_pack/audio/mlaad/mlaad_09568.flac,untermbirnbaum_09_f000017.wav,Kani-TTS-370M,1,de,mlaad,1.7403496503829956,0.9918766358710919,1
+colab_pack/audio/mlaad/mlaad_09798.flac,Kanzlerin_42_13_f000049.wav,real,0,de,mlaad,-0.7328431606292725,0.11678084889378128,0
+colab_pack/audio/mlaad/mlaad_10401.flac,untermbirnbaum_04_f000077.wav,Chatterbox Multilingual,1,de,mlaad,2.8854076862335205,0.999653123375542,1
+colab_pack/audio/mlaad/mlaad_10412.flac,pink_fairy_book_23_f000079.wav,minimax_speech-2.6-hd,1,en,mlaad,2.721073865890503,0.9994540802366634,1
+colab_pack/audio/mlaad/mlaad_08270.flac,skyisland_10_baum_64kb_f000018.wav,parler_tts_large_v1,1,en,mlaad,2.417527675628662,0.9987388196412307,1
+colab_pack/audio/mlaad/mlaad_08656.flac,northandsouth_11_f000108.wav,real,0,en,mlaad,-3.1671946048736572,0.00015936285182862483,0
+colab_pack/audio/mlaad/mlaad_09685.flac,Kanzlerin_10_14_f000060.wav,Llasa-1B-Multilingual,1,de,mlaad,2.1582391262054443,0.9974230974640272,1
+colab_pack/audio/mlaad/mlaad_10410.flac,ferien_vom_ich_002_f000244.wav,Kani-TTS-370M,1,de,mlaad,2.0545101165771484,0.9965715275569288,1
+colab_pack/audio/mlaad/mlaad_07640.flac,das_letzte_marchen_009_f000262.wav,real,0,de,mlaad,-0.33871990442276,0.2818796833454819,0
+colab_pack/audio/mlaad/mlaad_09589.flac,ferien_vom_ich_002_f000244.wav,real,0,de,mlaad,-1.0387576818466187,0.05376541296168802,0
+colab_pack/audio/mlaad/mlaad_10908.flac,neujahr_2007_2008_f000045.wav,real,0,de,mlaad,-1.108877420425415,0.04472568383770901,0
+colab_pack/audio/mlaad/mlaad_10559.flac,Kanzlerin_09_17_f000027.wav,real,0,de,mlaad,-1.1829421520233154,0.03675857096076778,0
+colab_pack/audio/mlaad/mlaad_09180.flac,ferien_vom_ich_009_f000305.wav,real,0,de,mlaad,0.8012794256210327,0.9013412427269055,1
+colab_pack/audio/mlaad/mlaad_09195.flac,Kanzlerin_29_17_f000035.wav,real,0,de,mlaad,-1.3003838062286377,0.02685262034040645,0
+colab_pack/audio/mlaad/mlaad_08396.flac,das_letzte_marchen_010_f000077.wav,RVC,1,de,mlaad,2.266859531402588,0.9980894890332188,1
+colab_pack/audio/mlaad/mlaad_08752.flac,northandsouth_20_f000007.wav,MegaTTS3,1,en,mlaad,2.782423257827759,0.9995391003908399,1
+colab_pack/audio/mlaad/mlaad_08941.flac,kleinzaches_06_f000061.wav,real,0,de,mlaad,-2.4167592525482178,0.0012638554145735824,0
+colab_pack/audio/mlaad/mlaad_08550.flac,zweiplaneten_46_lasswitz_f000101.wav,Higgs-Audio-V2,1,de,mlaad,1.2743878364562988,0.9712068233547021,1
+colab_pack/audio/mlaad/mlaad_07192.flac,jane_eyre_14_f000146.wav,real,0,en,mlaad,-3.5934360027313232,4.9131624455931545e-05,0
+colab_pack/audio/mlaad/mlaad_08213.flac,ferien_vom_ich_014_f000064.wav,real,0,de,mlaad,-0.6116502285003662,0.15594976703462274,0
+colab_pack/audio/mlaad/mlaad_07943.flac,odysseus_01_f000104.wav,Edge-TTS,1,de,mlaad,2.2961061000823975,0.9982374292746418,1
+colab_pack/audio/mlaad/mlaad_07168.flac,ferien_vom_ich_015_f000078.wav,real,0,de,mlaad,-0.003561675548553467,0.4975417016878851,0
+colab_pack/audio/mlaad/mlaad_07429.flac,alter_afrikaner_28_f000163.wav,CaroTTS,1,de,mlaad,2.0220870971679688,0.9962516749541633,1
+colab_pack/audio/mlaad/mlaad_10400.flac,wives_and_daughters_06_f000195.wav,Llasa-8B,1,en,mlaad,1.886069416999817,0.9945526599825099,1
+colab_pack/audio/mlaad/mlaad_07069.flac,alter_afrikaner_02_f000097.wav,real,0,de,mlaad,-2.898719072341919,0.0003343642164180546,0
+colab_pack/audio/mlaad/mlaad_10843.flac,zweiplaneten_05_lasswitz_f000120.wav,real,0,de,mlaad,-3.103374481201172,0.0001900621532576843,0
+colab_pack/audio/mlaad/mlaad_07791.flac,das_letzte_marchen_005_f000270.wav,real,0,de,mlaad,-0.298635870218277,0.3048112699238985,0
+colab_pack/audio/mlaad/mlaad_08405.flac,poisoned_pen_04_f000299.wav,parler_tts_mini_v1,1,en,mlaad,2.5598902702331543,0.9991483541841634,1
+colab_pack/audio/mlaad/mlaad_10499.flac,das_letzte_marchen_001_f000108.wav,real,0,de,mlaad,-0.8951846361160278,0.07788219184081797,0
+colab_pack/audio/mlaad/mlaad_07880.flac,erzaehlungen_30_poe_f000270.wav,griffin_lim,1,de,mlaad,2.31437087059021,0.9983239603390212,1
+colab_pack/audio/mlaad/mlaad_09096.flac,Kanzlerin_15_13_f000044.wav,Higgs-Audio-V2,1,de,mlaad,0.19159430265426636,0.6292415039832754,1
+colab_pack/audio/mlaad/mlaad_10510.flac,Kanzlerin_29_14_f000026.wav,real,0,de,mlaad,-1.2227535247802734,0.03305892054904172,0
+colab_pack/audio/mlaad/mlaad_07325.flac,Kanzlerin_21_16_f000005.wav,real,0,de,mlaad,-1.0758448839187622,0.04878800124025484,0
+colab_pack/audio/mlaad/mlaad_10450.flac,northandsouth_30_f000081.wav,Index-TTS-2.0,1,en,mlaad,2.8407983779907227,0.9996076777489232,1
+colab_pack/audio/mlaad/mlaad_07502.flac,toten_seelen_16_f000212.wav,Higgs-Audio-V2,1,de,mlaad,1.489495873451233,0.9838933182544777,1
+colab_pack/audio/mlaad/mlaad_07977.flac,zweiplaneten_35_lasswitz_f000142.wav,OuteTTS,1,de,mlaad,2.4910919666290283,0.9989703905923052,1
+colab_pack/audio/mlaad/mlaad_09268.flac,the_sea_fairies_13_f000141.wav,f5-tts,1,en,mlaad,1.9320145845413208,0.9951984988719367,1
+colab_pack/audio/mlaad/mlaad_07343.flac,jane_eyre_28_f000180.wav,parler_tts_large_v1,1,en,mlaad,3.3216450214385986,0.9998959549799193,1
+colab_pack/audio/mlaad/mlaad_07632.flac,the_sea_fairies_16_f000067.wav,Kitten-TTS-Nano-0.1,1,en,mlaad,2.395502805709839,0.9986598567669803,1
+colab_pack/audio/mlaad/mlaad_07697.flac,das_letzte_marchen_012_f000302.wav,real,0,de,mlaad,-1.082679033279419,0.04791979273896851,0
+colab_pack/audio/mlaad/mlaad_08575.flac,dorothy_and_wizard_oz_09_f000114.wav,Microsoft VibeVoice 1.5B,1,en,mlaad,2.554568290710449,0.9991357592779971,1
+colab_pack/audio/mlaad/mlaad_07684.flac,ferien_vom_ich_011_f000275.wav,real,0,de,mlaad,-0.1092967838048935,0.42512908786712517,0
+colab_pack/audio/mlaad/mlaad_10735.flac,alter_afrikaner_10_f000158.wav,NVidia Magpie-TTS Multilingual,1,de,mlaad,2.7917635440826416,0.9995508284877545,1
+colab_pack/audio/mlaad/mlaad_08156.flac,dorothy_and_wizard_oz_06_f000068.wav,f5-tts,1,en,mlaad,2.6718409061431885,0.9993746461611979,1
+colab_pack/audio/mlaad/mlaad_10777.flac,northandsouth_35_f000097.wav,griffin_lim,1,en,mlaad,0.6558018922805786,0.8594312858372402,1
+colab_pack/audio/mlaad/mlaad_10417.flac,Kanzlerin_01_16_f000067.wav,real,0,de,mlaad,-1.0819875001907349,0.04800697337453012,0
+colab_pack/audio/mlaad/mlaad_10477.flac,alter_afrikaner_16_f000006.wav,griffin_lim,1,de,mlaad,2.1881518363952637,0.9976268748510962,1
+colab_pack/audio/mlaad/mlaad_10541.flac,Kanzlerin_14_15_f000041.wav,real,0,de,mlaad,-0.518762469291687,0.1927517180554812,0
+colab_pack/audio/mlaad/mlaad_09255.flac,das_letzte_marchen_006_f000018.wav,real,0,de,mlaad,-0.87034010887146,0.08295307858145572,0
+colab_pack/audio/mlaad/mlaad_10483.flac,midnight_passenger_12_f000254.wav,MatchaTTS,1,en,mlaad,1.343854308128357,0.9761116927873612,1
+colab_pack/audio/mlaad/mlaad_09565.flac,the_sea_fairies_08_f000061.wav,parler_tts_mini_v1,1,en,mlaad,2.8999295234680176,0.9996667509522024,1
+colab_pack/audio/mlaad/mlaad_07109.flac,wives_and_daughters_07_f000014.wav,real,0,en,mlaad,-2.753591537475586,0.0004990679638039039,0
+colab_pack/audio/mlaad/mlaad_07353.flac,Kanzlerin_06_17_f000009.wav,real,0,de,mlaad,-1.3447948694229126,0.023827831796878474,0
+colab_pack/audio/mlaad/mlaad_10059.flac,tschun_12_f000190.wav,griffin_lim,1,de,mlaad,-0.03713856637477875,0.47438887781950645,0
+colab_pack/audio/mlaad/mlaad_08342.flac,das_letzte_marchen_004_f000238.wav,real,0,de,mlaad,-1.1104905605316162,0.04453578579665539,0
+colab_pack/audio/mlaad/mlaad_08635.flac,Kanzlerin_26_13_f000013.wav,real,0,de,mlaad,-1.422346591949463,0.019324009297543365,0
+colab_pack/audio/mlaad/mlaad_10829.flac,Kanzlerin_09_17_f000056.wav,real,0,de,mlaad,-1.1850403547286987,0.036554011362182254,0
+colab_pack/audio/mlaad/mlaad_09824.flac,zweiplaneten_60_lasswitz_f000124.wav,Edge-TTS,1,de,mlaad,2.473996877670288,0.9989206847296678,1
+colab_pack/audio/mlaad/mlaad_09886.flac,jane_eyre_25_f000022.wav,real,0,en,mlaad,-2.2382278442382812,0.0020673375005211417,0

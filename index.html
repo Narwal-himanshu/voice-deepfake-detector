@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Voice Deepfake Detector</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --text:#1c1f24; --muted:#6b7280; --line:#e5e7eb; --real:#15803d; --fake:#b91c1c; --warn:#b45309; --accent:#2563eb; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#111418; --card:#1a1e24; --text:#e8eaed; --muted:#9aa3af; --line:#2a2f37; --real:#4ade80; --fake:#f87171; --warn:#fbbf24; --accent:#60a5fa; } }
+  body { margin:0; background:var(--bg); color:var(--text); font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif; }
+  .wrap { max-width:560px; margin:0 auto; padding:32px 16px; }
+  h1 { font-size:22px; margin:0 0 4px; } .sub { color:var(--muted); font-size:14px; margin-bottom:20px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:20px; margin-bottom:16px; }
+  button, .btn { background:var(--accent); color:#fff; border:0; border-radius:8px; padding:10px 16px; font-size:15px; cursor:pointer; }
+  button.alt { background:transparent; color:var(--text); border:1px solid var(--line); }
+  button:disabled { opacity:.5; cursor:default; }
+  .row { display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+  #name { color:var(--muted); font-size:14px; }
+  #result { display:none; }
+  .verdict { font-size:28px; font-weight:700; margin:0 0 6px; }
+  .bar { height:10px; background:var(--line); border-radius:6px; overflow:hidden; margin:10px 0 6px; }
+  .bar > div { height:100%; background:var(--accent); width:0; transition:width .4s; }
+  .muted { color:var(--muted); font-size:13px; }
+  .warn { color:var(--warn); font-size:14px; margin-top:8px; }
+  .limit { font-size:13px; color:var(--muted); line-height:1.5; }
+  audio { width:100%; margin-top:12px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Voice Deepfake Detector</h1>
+  <div class="sub">Upload or record a voice clip. The model says whether it sounds real or AI-generated.</div>
+
+  <div class="card">
+    <div class="row">
+      <input type="file" id="file" accept="audio/*" hidden>
+      <button class="alt" id="pick">Choose audio file</button>
+      <button class="alt" id="rec">Record from mic</button>
+      <span id="name">No audio yet</span>
+    </div>
+    <audio id="player" controls hidden></audio>
+    <div class="row" style="margin-top:14px"><button id="go" disabled>Check</button><span id="status" class="muted"></span></div>
+    <div class="muted" style="margin-top:8px">Record at least 4 seconds and start speaking right away. Silent clips are rejected.</div>
+  </div>
+
+  <div class="card" id="result">
+    <p class="verdict" id="verdict"></p>
+    <div class="bar"><div id="fill"></div></div>
+    <div class="muted" id="scoretxt"></div>
+    <div class="warn" id="unc" hidden>Score is near the decision boundary. Treat this as inconclusive, not proof.</div>
+    <div class="muted" id="modeltxt" style="margin-top:8px"></div>
+  </div>
+
+  <div class="card limit">
+    <strong>Please read: limits of this model.</strong><br>
+    v3 was trained on ASVspoof 2019 LA and MLAAD-tiny. It scores well on those test sets, but a live microphone recording is out-of-domain: different room, microphone, and codec. A real voice can be flagged fake; borderline scores are shown as NOT SURE because the demo uses a cautious band for live mic audio.
+    Treat the result as a demo, not as proof. The clip is split into 4-second windows; silent/quiet windows are skipped. Record at least 4 seconds and start speaking right away.
+  </div>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+let blob = null, recorder = null, chunks = [];
+
+$("pick").onclick = () => $("file").click();
+$("file").onchange = e => { if (e.target.files[0]) setAudio(e.target.files[0], e.target.files[0].name); };
+
+$("rec").onclick = async () => {
+  if (recorder && recorder.state === "recording") { recorder.stop(); return; }
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: {
+      echoCancellation: false, noiseSuppression: false, autoGainControl: false
+    }});
+    recorder = new MediaRecorder(stream); chunks = [];
+    recorder.ondataavailable = e => chunks.push(e.data);
+    recorder.onstop = () => { stream.getTracks().forEach(t => t.stop()); $("rec").textContent = "Record from mic";
+      setAudio(new Blob(chunks, { type: recorder.mimeType }), "recording"); };
+    recorder.start(); $("rec").textContent = "Stop recording";
+  } catch (err) { $("status").textContent = "Mic not available: " + err.message; }
+};
+
+function setAudio(b, label) {
+  blob = b; $("name").textContent = label; $("go").disabled = false; $("result").style.display = "none";
+  $("player").src = URL.createObjectURL(b); $("player").hidden = false; $("status").textContent = "";
+}
+
+// decode any browser-supported audio, keep first 4 s, resample to 16 kHz mono, write a WAV
+async function toWav16k(b) {
+  const ctx = new (window.AudioContext || window.webkitAudioContext)();
+  const audio = await ctx.decodeAudioData(await b.arrayBuffer()); ctx.close();
+  const dur = Number.isFinite(audio.duration) ? audio.duration : audio.length / audio.sampleRate;
+  const len = Math.max(1, Math.ceil(Math.min(dur, 30) * 16000));
+  const off = new OfflineAudioContext(1, len, 16000);
+  const src = off.createBufferSource(); src.buffer = audio; src.connect(off.destination); src.start();
+  const data = (await off.startRendering()).getChannelData(0);
+  const buf = new ArrayBuffer(44 + data.length * 2), v = new DataView(buf);
+  const w = (o, s) => [...s].forEach((c, i) => v.setUint8(o + i, c.charCodeAt(0)));
+  w(0, "RIFF"); v.setUint32(4, 36 + data.length * 2, true); w(8, "WAVEfmt "); v.setUint32(16, 16, true);
+  v.setUint16(20, 1, true); v.setUint16(22, 1, true); v.setUint32(24, 16000, true); v.setUint32(28, 32000, true);
+  v.setUint16(32, 2, true); v.setUint16(34, 16, true); w(36, "data"); v.setUint32(40, data.length * 2, true);
+  for (let i = 0; i < data.length; i++) v.setInt16(44 + i * 2, Math.max(-1, Math.min(1, data[i])) * 32767, true);
+  return new Blob([buf], { type: "audio/wav" });
+}
+
+$("go").onclick = async () => {
+  $("go").disabled = true; $("status").textContent = "Checking... (first run can take a few seconds)";
+  try {
+    const wav = await toWav16k(blob);
+    const fd = new FormData(); fd.append("file", wav, "clip.wav");
+    const r = await fetch("/predict", { method: "POST", body: fd });
+    const j = await r.json();
+    if (!r.ok) throw new Error(j.detail || "Server error");
+    const m = { fake: ["Likely FAKE (AI-generated)", "var(--fake)"],
+                real: ["Likely REAL", "var(--real)"],
+                uncertain: ["NOT SURE", "var(--warn)"] }[j.result];
+    $("verdict").textContent = m[0]; $("verdict").style.color = m[1];
+    const pct = (Math.log10(Math.max(j.score, 1e-6)) + 6) / 6 * 100;   // log scale bar: 1e-6 ... 1
+    $("fill").style.width = pct + "%";
+    $("scoretxt").textContent = "Fake score: " + j.score.toExponential(2) + "  (lower = more real, higher = more fake)";
+    $("modeltxt").textContent = "Model: " + (j.model || "unknown") + " | real < " + j.real_thr + " | fake >= " + j.fake_thr;
+    $("unc").hidden = j.result !== "uncertain"; $("result").style.display = "block"; $("status").textContent = "";
+  } catch (err) { $("status").textContent = "Error: " + err.message; }
+  $("go").disabled = false;
+};
+</script>
+</body>
+</html>

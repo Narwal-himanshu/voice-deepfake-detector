@@ -1,0 +1,29 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Raw and packed datasets (licensed; not redistributed)
+MLAAD-tiny/
+colab_pack/
+colab_pack_v2/
+data/
+*.wav
+*.flac
+*.mp3
+*.m4a
+
+# Large model weights and archives
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.zip
+
+# Temporary / generated results
+results_v3_quick/
+data_v3/quick_*.csv
+CALLER/

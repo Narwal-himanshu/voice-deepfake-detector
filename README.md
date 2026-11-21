@@ -63,7 +63,7 @@ The repository includes a root `Dockerfile` and `render.yaml` blueprint. The Doc
 3. Connect `Narwal-himanshu/voice-deepfake-detector`.
 4. Deploy the `voice-deepfake-detector` service.
 
-The blueprint uses Render's Docker runtime, CPU inference, `/health` as the health check, and the `starter` plan. The ML checkpoint and PyTorch runtime generally require more than Render's 512 MB free tier, so the starter paid instance is the recommended minimum.
+The blueprint uses Render's Docker runtime, CPU inference, `/health` as the health check, and the free plan. XLS-R 300M plus PyTorch generally requires more than Render's 512 MB free-instance memory, so the free deployment may build successfully and then fail with an out-of-memory error. The starter paid plan is the reliable Render option. Hugging Face Spaces is another free alternative because it supports ML workloads.
 
 ## Data
 

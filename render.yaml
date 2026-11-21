@@ -3,7 +3,7 @@ services:
     name: voice-deepfake-detector
     runtime: docker
     dockerfilePath: ./Dockerfile
-    plan: starter
+    plan: free
     healthCheckPath: /health
     envVars:
       - key: CKPT

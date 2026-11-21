@@ -52,7 +52,18 @@ python3 -m uvicorn app:app --port 8000      # open http://localhost:8000
 ```
 `DEVICE=mps` uses Apple Silicon GPU; use `cuda` or `cpu` if needed. For the v1 model, set `CKPT=checkpoints/xlsr_aasist_rb4.pt` and omit `CALIB`.
 
-Training/eval use a 4-second center crop. The demo sends the full clip (up to 30 s), scores up to eight 4-second windows, skips near-silent windows, and averages them, so app scores can differ from the single center-crop test numbers. Silent clips are rejected. Docker and cloud hosting are **not** done yet.
+Training/eval use a 4-second center crop. The demo sends the full clip (up to 30 s), scores up to eight 4-second windows, skips near-silent windows, and averages them, so app scores can differ from the single center-crop test numbers. Silent clips are rejected.
+
+## Deploy on Render
+
+The repository includes a root `Dockerfile` and `render.yaml` blueprint. The Docker image downloads the v3 checkpoint from GitHub Releases at build time, so the 1.2 GB model file does not need to be committed to Git.
+
+1. Push this repository to GitHub.
+2. Open the Render Dashboard and choose **New > Blueprint**.
+3. Connect `Narwal-himanshu/voice-deepfake-detector`.
+4. Deploy the `voice-deepfake-detector` service.
+
+The blueprint uses Render's Docker runtime, CPU inference, `/health` as the health check, and the `starter` plan. The ML checkpoint and PyTorch runtime generally require more than Render's 512 MB free tier, so the starter paid instance is the recommended minimum.
 
 ## Data
 

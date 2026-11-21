@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: voice-deepfake-detector
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: starter
+    healthCheckPath: /health
+    envVars:
+      - key: CKPT
+        value: /app/checkpoints/xlsr_v3.pt
+      - key: CALIB
+        value: /app/eval/calibration_xlsr_v3.json
+      - key: DEVICE
+        value: cpu
+      - key: DEMO_BAND
+        value: "1"
